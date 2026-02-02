@@ -77,13 +77,11 @@ Interpretation:
 Dashboard & Visualizations
 Below are key visualizations from the analysis:
 
-![Centre 1 Dashboard Preview](images/dashboard_centre1.png)
+![Centre 1 Dashboard Preview](images/centre1_dashboard.png)
 *Dashboard preview showing key pharmacy KPIs for Centre 1.*
 
-![Centre 2 Dashboard Preview](images/dashboard_centre2.png)
+![Centre 2 Dashboard Preview](images/centre2_dashboard.png)
 *Dashboard preview showing key pharmacy KPIs for Centre 2.*
-
-
 
  Key Insights
 - Supplier performance is the primary driver of delays, not internal workflows.
