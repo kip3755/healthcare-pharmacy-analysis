@@ -77,14 +77,12 @@ Interpretation:
 Dashboard & Visualizations
 Below are key visualizations from the analysis:
 
-![Medication Trend Chart](images/medication_trend_chart.png)
-*Trend of most prescribed medications over 12 months.*
+![Centre 1 Dashboard Preview](images/dashboard_centre1.png)
+*Dashboard preview showing key pharmacy KPIs for Centre 1.*
 
-![Requisition TAT Comparison](images/requisition_tat_comparison.png)
-*Comparison of median and average TAT for Centres 1 & 2.*
+![Centre 2 Dashboard Preview](images/dashboard_centre2.png)
+*Dashboard preview showing key pharmacy KPIs for Centre 2.*
 
-![Supplier Delay Analysis](images/supplier_delay_analysis.png)
-*Top suppliers contributing to delayed requisitions.*
 
 
  Key Insights
