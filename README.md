@@ -78,9 +78,11 @@ Dashboard & Visualizations
 Below are key visualizations from the analysis:
 
 ![Centre 1 Dashboard Preview](data/dashboard/data/dashboard/dashboard_preview.png%20Centre%201.png)
+
 *Dashboard preview showing key pharmacy KPIs for Centre 1.*
 
 ![Centre 2 Dashboard Preview](data/dashboard/data/dashboard/dashboard_preview.png%20Centre%202.png)
+
 *Dashboard preview showing key pharmacy KPIs for Centre 2.*
 
  Key Insights
