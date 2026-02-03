@@ -11,7 +11,7 @@ Business Objectives:
 - Assess overall patient satisfaction
 
 Dataset
-The dataset contains anonymized pharmacy operational data from AGC Tenwek Hospital, including:
+The dataset contains anonymized pharmacy operational data from Active level 5 hospital, including:
 
 - Columns: `InvestigationName`, `Results_Received_TAT_Min`, `Purchase_Order_TAT`, `GRN_Approval_TAT`, `Prescription_Fill_Rate`, `Overall_Satisfaction_Score`, `SupplierName`
 - Period: January – November 2025
@@ -77,10 +77,10 @@ Interpretation:
 Dashboard & Visualizations
 Below are key visualizations from the analysis:
 
-![Centre 1 Dashboard Preview](images/centre1_dashboard.png)
+![Centre 1 Dashboard Preview](data/dashboard/data/dashboard/dashboard_preview.png%20Centre%201.png)
 *Dashboard preview showing key pharmacy KPIs for Centre 1.*
 
-![Centre 2 Dashboard Preview](images/centre2_dashboard.png)
+![Centre 2 Dashboard Preview](data/dashboard/data/dashboard/dashboard_preview.png%20Centre%202.png)
 *Dashboard preview showing key pharmacy KPIs for Centre 2.*
 
  Key Insights
